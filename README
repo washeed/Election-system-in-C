@@ -1,0 +1,14 @@
+Title: Student Election System with USB Identification
+
+Description:
+The Student Election System with USB Identification is a comprehensive project developed from scratch in the C programming language. It aims to streamline and modernize the process of student elections by utilizing USB devices as unique identification for voters.
+
+This project offers a secure and efficient solution for conducting elections within educational institutions. By integrating USB identification, it eliminates the need for traditional paper-based ballots and enhances the accuracy and integrity of the voting process.
+
+Key Features:
+
+USB Identification: Students can use their USB devices as their identification during the election, ensuring a secure and personalized voting experience.
+User-Friendly Interface: The system provides an intuitive interface for both voters and administrators, simplifying the process and reducing the chances of errors.
+Ballot Management: The project includes robust ballot management functionalities, allowing administrators to define and manage candidates, positions, and election rules.
+Vote Casting and Tallying: Voters can easily cast their votes through the system, and the project automates the tallying process to provide quick and accurate results.
+Data Security: The project implements strict security measures to protect the confidentiality and integrity of the election data.
